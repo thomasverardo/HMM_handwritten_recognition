@@ -1,0 +1,9 @@
+1
+
+Pen Down (x,y)
+602_660
+594_676
+Pen Up
+TimeTaken: 0.0625013 Seconds
+Speed: 15.9996672069221stroke(s)\Seconds
+Stroke(S): 1

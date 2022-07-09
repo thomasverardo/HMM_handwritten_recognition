@@ -1,0 +1,4 @@
+1
+
+Speed: NaNstroke(s)\Seconds
+Stroke(S): 0

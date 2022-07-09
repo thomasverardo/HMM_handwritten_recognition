@@ -1,0 +1,77 @@
+7
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.2968903 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.2273209 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.0468894 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.485095 SecondsPen Up
+TimeTaken: 0.485095 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.2878044 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 1.1210363 SecondsPen Up
+TimeTaken: 1.1210363 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.5563592 Seconds
+Pen Down (x,y)
+421_195
+447_196
+479_195
+521_192
+590_188
+657_185
+678_184
+737_181
+770_179
+792_177
+805_176
+815_176
+819_175
+820_175
+821_175
+820_176
+816_181
+814_185
+802_206
+782_236
+767_259
+753_285
+740_313
+728_341
+711_385
+702_413
+691_454
+687_467
+680_506
+675_539
+673_560
+671_578
+672_601
+673_607
+675_623
+677_634
+678_638
+678_641
+679_643
+679_644
+680_643
+685_635
+689_630
+Pen Up
+TimeTaken: 1.1407362 Seconds
+Speed: 1.73362414300458stroke(s)\Seconds
+Stroke(S): 10

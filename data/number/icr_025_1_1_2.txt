@@ -1,0 +1,14 @@
+1
+
+Pen Down (x,y)
+691_329
+699_423
+703_460
+707_488
+709_499
+710_509
+711_516
+Pen Up
+TimeTaken: 0.1249762 Seconds
+Speed: 8.00152349007251stroke(s)\Seconds
+Stroke(S): 1

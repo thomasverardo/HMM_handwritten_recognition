@@ -1,0 +1,12 @@
+1
+
+Pen Down (x,y)
+773_283
+766_275
+771_288
+795_487
+797_490
+Pen Up
+TimeTaken: 0.1862529 Seconds
+Speed: 5.36904391824235stroke(s)\Seconds
+Stroke(S): 1

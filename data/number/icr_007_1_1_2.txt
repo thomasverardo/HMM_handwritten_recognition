@@ -1,0 +1,14 @@
+1
+
+Pen Down (x,y)
+722_325
+719_405
+716_463
+712_520
+709_573
+705_617
+698_667
+Pen Up
+TimeTaken: 0.120076 Seconds
+Speed: 8.32805889603251stroke(s)\Seconds
+Stroke(S): 1

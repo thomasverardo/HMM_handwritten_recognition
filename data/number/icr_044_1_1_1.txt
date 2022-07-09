@@ -1,0 +1,15 @@
+1
+
+Pen Down (x,y)
+704_244
+708_260
+709_300
+709_336
+707_399
+707_420
+708_476
+706_512
+Pen Up
+TimeTaken: 0.1875105 Seconds
+Speed: 5.33303468339106stroke(s)\Seconds
+Stroke(S): 1

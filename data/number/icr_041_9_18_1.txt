@@ -1,0 +1,117 @@
+9
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.0937608 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.2062569 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.1709247 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.0469044 SecondsPen Up
+TimeTaken: 0.0469044 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.1046677 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.1709871 SecondsPen Up
+TimeTaken: 0.2561212 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.078109 SecondsPen Up
+TimeTaken: 0.078109 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.1009469 Seconds
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.1960253 SecondsPen Up
+TimeTaken: 0.1960253 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.1810421 SecondsPen Up
+TimeTaken: 0.1810421 Seconds
+Pen Down (x,y)
+
+Pen Down (x,y)
+Pen Up
+TimeTaken: 0.0937805 SecondsPen Up
+TimeTaken: 0.0937805 Seconds
+Pen Down (x,y)
+818_202
+819_196
+821_190
+818_181
+809_175
+793_169
+772_164
+734_161
+719_161
+675_164
+643_169
+610_179
+565_200
+552_208
+524_234
+509_265
+508_275
+516_305
+531_323
+551_339
+587_356
+616_361
+645_363
+689_356
+703_352
+740_333
+762_316
+789_288
+804_268
+816_248
+824_229
+831_211
+837_190
+839_181
+839_175
+840_172
+840_173
+839_180
+836_200
+835_217
+834_238
+834_262
+834_288
+837_329
+839_358
+841_386
+844_428
+844_453
+841_477
+836_507
+834_523
+833_536
+833_547
+833_551
+833_553
+833_555
+832_555
+831_551
+828_548
+809_538
+
+Speed: 7.84181183494084stroke(s)\Seconds
+Stroke(S): 18

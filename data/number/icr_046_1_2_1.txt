@@ -1,0 +1,14 @@
+1
+
+Pen Down (x,y)
+275_547
+Pen Up
+TimeTaken: 0.0312578 Seconds
+Pen Down (x,y)
+595_765
+594_767
+595_767
+Pen Up
+TimeTaken: 0.0468806 Seconds
+Speed: 25.5956098410001stroke(s)\Seconds
+Stroke(S): 2

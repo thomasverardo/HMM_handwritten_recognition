@@ -1,0 +1,13 @@
+1
+
+Pen Down (x,y)
+752_263
+752_263
+762_305
+772_446
+775_451
+778_453
+Pen Up
+TimeTaken: 0.2120065 Seconds
+Speed: 4.71683651208807stroke(s)\Seconds
+Stroke(S): 1

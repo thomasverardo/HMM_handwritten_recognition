@@ -1,0 +1,11 @@
+1
+
+Pen Down (x,y)
+764_473
+762_503
+761_509
+760_514
+Pen Up
+TimeTaken: 0.1093751 Seconds
+Speed: 9.14284878368111stroke(s)\Seconds
+Stroke(S): 1

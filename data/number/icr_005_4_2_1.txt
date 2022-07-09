@@ -1,0 +1,25 @@
+4
+
+Pen Down (x,y)
+632_267
+631_267
+623_347
+619_451
+666_453
+732_448
+803_441
+860_438
+888_440
+897_441
+Pen Up
+TimeTaken: 0.3350004 Seconds
+Pen Down (x,y)
+742_303
+741_303
+760_378
+770_619
+780_662
+Pen Up
+TimeTaken: 0.1600002 Seconds
+Speed: 4.04039914295053stroke(s)\Seconds
+Stroke(S): 2

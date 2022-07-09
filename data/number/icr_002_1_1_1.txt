@@ -1,0 +1,15 @@
+1
+
+Pen Down (x,y)
+741_138
+730_214
+721_382
+715_450
+708_510
+703_546
+702_554
+701_554
+Pen Up
+TimeTaken: 0.2530145 Seconds
+Speed: 3.95234265229858stroke(s)\Seconds
+Stroke(S): 1

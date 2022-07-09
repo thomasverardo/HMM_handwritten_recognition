@@ -1,0 +1,30 @@
+1
+
+Pen Down (x,y)
+590_211
+541_249
+527_260
+495_290
+488_298
+480_311
+Pen Up
+TimeTaken: 0.0937603 Seconds
+Pen Down (x,y)
+682_227
+673_269
+669_290
+659_335
+650_381
+642_423
+635_458
+629_486
+625_509
+Pen Up
+TimeTaken: 0.1250095 Seconds
+Pen Down (x,y)
+881_565
+924_571
+Pen Up
+TimeTaken: 0.0312529 Seconds
+Speed: 11.9989104989267stroke(s)\Seconds
+Stroke(S): 3
