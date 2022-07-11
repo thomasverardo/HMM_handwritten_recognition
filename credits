@@ -10,3 +10,8 @@ https://data.mendeley.com/datasets/n7kmd7t7yx/1
 
 Speech regognition:
 https://jonathan-hui.medium.com/speech-recognition-gmm-hmm-8bb5eff8b196
+
+
+
+Implementation HMM / baum_welch.py of 11/07/22
+https://github.com/RRisto/learning/blob/master/markov_chain_learn/baum_welch.ipynb
